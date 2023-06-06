@@ -1,5 +1,5 @@
 ### What is this?!
-this code and configuration shows how a weak C library can be a bullet to your foot and change memory data collaturally!
+this code and configuration shows how a weak C library can be a bullet to your foot and change memory data collaterally!
 
 Our weak library changes x and y variables together without any error or warning, that shows we should have a very good understanding about memory and it's L/R Values!
 
